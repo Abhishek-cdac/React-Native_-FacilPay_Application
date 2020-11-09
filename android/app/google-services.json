@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "181225724744",
+    "firebase_url": "https://facilpay-2ecf6.firebaseio.com",
+    "project_id": "facilpay-2ecf6",
+    "storage_bucket": "facilpay-2ecf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181225724744:android:00b63ae6420f660bf9317d",
+        "android_client_info": {
+          "package_name": "com.facilpay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181225724744-m5eg17qk4qgculnfm00o53i2lc4eh2l8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.facilpay",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "181225724744-b0umf3f360bas7j13529nadgicvavfv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpsRxRT6-poB0vTKFcK5IfwjK9wuhFhYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181225724744-b0umf3f360bas7j13529nadgicvavfv8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

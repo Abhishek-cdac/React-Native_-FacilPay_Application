@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>181225724744-m5uinci6l3j93a2foocpj594cjqoqnl3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.181225724744-m5uinci6l3j93a2foocpj594cjqoqnl3</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>181225724744-m5eg17qk4qgculnfm00o53i2lc4eh2l8.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDinI1zoJovTFJPSD0KNnXMXqRgJ91VGpw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>181225724744</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.FacilPay</string>
+	<key>PROJECT_ID</key>
+	<string>facilpay-2ecf6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>facilpay-2ecf6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:181225724744:ios:cb12c1db81a7ce32f9317d</string>
+	<key>DATABASE_URL</key>
+	<string>https://facilpay-2ecf6.firebaseio.com</string>
+</dict>
+</plist>
